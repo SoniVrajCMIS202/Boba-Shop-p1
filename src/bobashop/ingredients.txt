@@ -1,0 +1,26 @@
+base: milk tea $8
+base: fresh tea $8
+base: smoothie $12
+black boba $0
+mango puree $0
+fresh ginger $0.5
+oreo cookies $1
+taro powder $1
+brown sugar $1
+dragonfruit $2
+cherry jelly $3
+green apple jelly $4
+dragonfruit jelly $5
+lemon jelly $2
+blueberry jelly $1
+fresh plums $2
+mango jelly $2.5
+pomegranate jelly $2
+kiwi jelly $2.5
+passionfruit jelly $3
+lychee jelly $2.51
+big red jujube $1
+fresh strawberry $2
+strawberry jelly $3
+cranberry jelly $3
+white boba $0
